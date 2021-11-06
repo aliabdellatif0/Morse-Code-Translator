@@ -1,0 +1,6 @@
+$font-stack: 'Roboto', sans-serif;
+$font-color: rgb(32, 32, 32);
+body {
+    font: 100% $font-stack;
+    color: $font-color;
+}
